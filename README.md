@@ -35,4 +35,5 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=phlpsong&theme=solarized-dark&card_width=400)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phlpsong)](https://github.com/anuraghazra/github-readme-stats&hide=TeX&layout=compact)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phlpsong)](https://github.com/anuraghazra/github-readme-stats&hide=TeX&layout=compact)  --!>
