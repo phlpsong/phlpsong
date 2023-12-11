@@ -1,7 +1,7 @@
 
 ## :wave: Hey There! 
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 
 - :earth_asia: I’m based in Shanghai, China.
 
@@ -16,7 +16,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
@@ -32,7 +32,7 @@
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=phlpsong&theme=solarized-dark&card_width=400)](https://git.io/streak-stats)
 
